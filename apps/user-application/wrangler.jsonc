@@ -14,4 +14,12 @@
   "observability": {
     "enabled": true,
   },
+  "account_id": "1a62e5645b0005833389482b27048b55",
+  "kv_namespaces": [
+    {
+      "binding": "CACHE",
+      "id": "2807a29406674e0fa9a2396c0d243b20",
+      // "remote": true,
+    },
+  ],
 }

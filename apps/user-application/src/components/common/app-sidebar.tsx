@@ -14,7 +14,6 @@ import {
 } from "@/components/ui/sidebar";
 
 export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
-  const a = 10;
   return (
     <Sidebar collapsible="offcanvas" {...props}>
       <SidebarHeader>

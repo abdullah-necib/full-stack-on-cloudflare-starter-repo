@@ -1,6 +1,7 @@
 {
   "name": "full-stack-on-cloudlare-starter-repo",
   "version": "1.0.0",
+  "packageManager": "pnpm@12.14.0",
   "description": "",
   "scripts": {
     "build-package": "pnpm --filter @repo/data-ops run build",
